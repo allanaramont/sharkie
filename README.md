@@ -16,7 +16,7 @@ Aplicação de game com controles pelo teclado, possui uma quantitade de vida e 
 
 ### Acessando a aplicação
 
-[Clique aqui para acessar](sharkie.desenvbr.com)
+[Clique aqui para acessar](https://sharkie.desenvbr.com)
 
 
 ## Configurando ambiente
